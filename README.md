@@ -1,5 +1,6 @@
 
 **GARCH Modeling for Cryptocurrency Trading**
+
 This code demonstrates how to implement GARCH (Generalized Autoregressive Conditional Heteroskedasticity) modeling for cryptocurrency trading using Python. GARCH models are powerful tools for forecasting volatility, aiding traders and investors in making informed decisions. Here's a breakdown of the steps covered in this tutorial:
 
 Fetching Historical Data: Utilize the ccxt library to fetch historical OHLCV (Open-High-Low-Close-Volume) data from the Binance cryptocurrency exchange for the ETH/USDT trading pair at 4-hour intervals.
